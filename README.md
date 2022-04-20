@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ManasiKeskar
-- 👀 I’m interested in Full Stack Development with React and Node js.
-- 🌱 I’m currently learning React, MongoDB
-- 💞️ I’m looking to collaborate on Full Stack project
+- 👋 - 💞️ I’m looking to collaborate on Full Stack project
 - 📫 How to reach me : manasikeskar@gmail.com
 
 <!---
